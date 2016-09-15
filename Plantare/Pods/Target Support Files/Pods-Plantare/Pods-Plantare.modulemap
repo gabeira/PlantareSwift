@@ -1,0 +1,6 @@
+framework module Pods_Plantare {
+  umbrella header "Pods-Plantare-umbrella.h"
+
+  export *
+  module * { export * }
+}
